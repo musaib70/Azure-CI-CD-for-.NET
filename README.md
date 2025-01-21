@@ -8,16 +8,14 @@ The **DevOps Starter Project** simplifies the setup of an entire continuous inte
 
 DevOps Projects does all the work for the initial configuration of a DevOps pipeline including everything from setting up the initial Git repository, configuring the CI/CD pipeline, creating an Application Insights resource for monitoring, and providing a single view of the entire solution with the creation of a DevOps Projects dashboard in the Azure portal.
 
-## What's covered in this lab?
-
- In this lab, you will
+## STEPS
 
 * Create an ASP.NET sample DevOps project using **DevOps Starter** feature in Azure
 * Examine the CI/CD pipelines configured by **DevOps Starter**
 * Commit the code changes and execute CI/CD
 * Configure Azure Application Insights monitoring
 
-## Pre-requisites for the lab
+## Pre-requisites
 
  1. **Microsoft Azure Account**: You will need a valid and active Azure account for the Azure labs. If you do not have one, you can sign up for a [free trial](https://azure.microsoft.com/en-us/free/)
 
