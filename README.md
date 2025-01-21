@@ -1,4 +1,4 @@
-# Create a CI/CD pipeline for .NET with the DevOps Starter Project
+# CI/CD pipeline for .NET with the DevOps Starter Project
 
 ![devops](https://imgur.com/gBofYCl.png)
 
