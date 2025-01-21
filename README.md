@@ -25,7 +25,7 @@ DevOps Projects does all the work for the initial configuration of a DevOps pipe
 
  1. You will need an Azure DevOps account. If you do not have one, you can sign up for free [here](https://azure.microsoft.com/en-us/services/devops/).
 
-## Exercise 1: Setting up a sample ASP.NET project using DevOps Starter Project
+## Setting up a sample ASP.NET project using DevOps Starter Project
 
 1. Sign into the [Microsoft Azure portal](https://portal.azure.com).
 
@@ -86,7 +86,7 @@ DevOps Projects does all the work for the initial configuration of a DevOps pipe
 
      ![webapp](https://imgur.com/kYescHq.png)
 
-## Exercise 2: Examine the  CI/CD pipelines configured by Azure DevOps Project
+## Examine the  CI/CD pipelines configured by Azure DevOps Project
 
   The Azure DevOps Starter project automatically configured a full CI/CD pipeline in your Azure DevOps organization. You can explore and customize the pipeline as needed. Follow the steps below to familiarize yourself with the Azure DevOps build and release pipelines.
 
@@ -148,7 +148,7 @@ DevOps Projects does all the work for the initial configuration of a DevOps pipe
 
   1. Select **Logs**. The logs contain useful information about the deployment process. They can be viewed both during and after deployments.
 
-## Exercise 3: Commit the code changes and execute CI/CD
+## Commit the code changes and execute CI/CD
 
 The Azure DevOps project created a Git repository in your Azure DevOps organization. Follow the steps below to view the repository and make code changes to your application.
 
